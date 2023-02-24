@@ -1,5 +1,5 @@
 import streamlit
-pip install snowflake-connector-python
+#pip install snowflake-connector-python
 import snowflake.connector
 import pandas
 streamlit.title('Zena\'s Amazing Athleisure Catalog')
