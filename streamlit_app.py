@@ -1,4 +1,7 @@
 import streamlit
+git clone https://github.com/snowflakedb/snowflake-connector-python.git
+cd snowflake-connector-python
+
 import snowflake.connector
 import pandas
 streamlit.title('Zena\'s Amazing Athleisure Catalog')
